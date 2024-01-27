@@ -1,0 +1,19 @@
+{
+  "name": "tests2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "web": "testcafe chrome test.js --esm"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^3.5.0"
+  }
+}
